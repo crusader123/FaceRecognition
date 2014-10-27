@@ -5,6 +5,10 @@ Face Recognition
 
 The Folder contains basically 4 important folders:
 
+---------------------------------------------------------------------------------------
+Warning: You need Yale Dataset for Part A and Part C. Students Dataset as well for bonus.
+These are not included here
+
 PartA+D:
 	contains codes for:
 		1) Identification of yale dataset (Yale.m) - give command " Yale(<no of eigenvectors>)"
